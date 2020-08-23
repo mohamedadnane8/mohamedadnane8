@@ -1,9 +1,5 @@
 ### Hello World!
 
-
-<!--
-**mohamedadnane8/mohamedadnane8** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🏫 I’m studying at Al Akhawayn University.
 -> Majoring in Computer Science. 
 -> Minoring in Business Administration.
