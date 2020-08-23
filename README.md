@@ -10,6 +10,6 @@ I am a tutor at Center of Learning Excellence; I am teaching:
 - Object Orriented Programming
 - Discrete Mathematics
 
-- 🔭 I’m currently working on CS50 Web Projects!
-- 🌱 I’m currently learning: Django, python, javascript
-- 📫 How to reach me: mohamed.adnane8@gmail.com
+🔭 I’m currently working on CS50 Web Projects!
+🌱 I’m currently learning: Django, python, javascript
+📫 How to reach me: mohamed.adnane8@gmail.com
