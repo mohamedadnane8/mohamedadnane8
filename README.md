@@ -4,12 +4,6 @@
 - Majoring in Computer Science. 
 - Minoring in Business Administration.
 
-I am a tutor at Center of Learning Excellence; I am teaching:
-- Introduction to computer programming 
-- Data Structures
-- Object Orriented Programming
-- Discrete Mathematics
-
 🔭 I’m currently working on CS50 AI Projects!
 
 
